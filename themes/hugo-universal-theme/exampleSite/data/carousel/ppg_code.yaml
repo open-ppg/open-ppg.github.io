@@ -1,0 +1,10 @@
+weight: 3
+title: "Code"
+description: >
+  <ul class="list-style-none">
+    <li>Algorithms</li>
+    <li>Foundation models</li>
+    <li>Open source code</li>
+  </ul>
+image: "img/carousel/template-easy-customize.png"
+href: "code"

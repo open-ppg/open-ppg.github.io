@@ -1,0 +1,9 @@
+weight: 2
+title: "Data"
+description: >
+  <ul class="list-style-none">
+    <li>Searchable</li>
+    <li>Dataset catalog</li>
+  </ul>
+image: "img/carousel/template-mac_ppg_waves.png"
+href: "data"
