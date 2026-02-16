@@ -34,7 +34,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Data"
     identifier = "menu.data"
-    url        = "/data"
+    url        = "/data_intro"
     weight     = 2
 
 [[menu.main]]
