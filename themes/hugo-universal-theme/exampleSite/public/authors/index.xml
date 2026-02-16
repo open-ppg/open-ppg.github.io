@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on open-PPG</title>
-    <link>http://localhost:1313/hugo-universal-theme/authors/</link>
+    <link>https://devcows.github.io/hugo-universal-theme/authors/</link>
     <description>Recent content in Authors on open-PPG</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-universal-theme/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://devcows.github.io/hugo-universal-theme/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Peter H Charlton</title>
-      <link>http://localhost:1313/hugo-universal-theme/authors/peter-h-charlton/</link>
+      <link>https://devcows.github.io/hugo-universal-theme/authors/peter-h-charlton/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-universal-theme/authors/peter-h-charlton/</guid>
+      <guid>https://devcows.github.io/hugo-universal-theme/authors/peter-h-charlton/</guid>
       <description></description>
     </item>
   </channel>

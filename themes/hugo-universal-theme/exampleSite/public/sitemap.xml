@@ -2,63 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugo-universal-theme/authors/</loc>
+    <loc>https://devcows.github.io/hugo-universal-theme/authors/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-universal-theme/blog/</loc>
+    <loc>https://devcows.github.io/hugo-universal-theme/blog/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-universal-theme/categories/</loc>
+    <loc>https://devcows.github.io/hugo-universal-theme/categories/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-universal-theme/tags/data/</loc>
+    <loc>https://devcows.github.io/hugo-universal-theme/tags/data/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-universal-theme/categories/datasets/</loc>
+    <loc>https://devcows.github.io/hugo-universal-theme/categories/datasets/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-universal-theme/tags/mimic/</loc>
+    <loc>https://devcows.github.io/hugo-universal-theme/tags/mimic/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-universal-theme/</loc>
+    <loc>https://devcows.github.io/hugo-universal-theme/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-universal-theme/authors/peter-h-charlton/</loc>
+    <loc>https://devcows.github.io/hugo-universal-theme/authors/peter-h-charlton/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-universal-theme/tags/</loc>
+    <loc>https://devcows.github.io/hugo-universal-theme/tags/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-universal-theme/blog/2026/02/12/mimic_iii_ext_ppg_dataset/</loc>
+    <loc>https://devcows.github.io/hugo-universal-theme/blog/2026/02/12/mimic_iii_ext_ppg_dataset/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-universal-theme/categories/pulse-oximetry/</loc>
+    <loc>https://devcows.github.io/hugo-universal-theme/blog/2026/02/04/apple_vascular_ageing/</loc>
     <lastmod>2026-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-universal-theme/tags/pulse-oximetry/</loc>
+    <loc>https://devcows.github.io/hugo-universal-theme/tags/ageing/</loc>
     <lastmod>2026-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-universal-theme/tags/skin-tone/</loc>
+    <loc>https://devcows.github.io/hugo-universal-theme/categories/health-outcomes/</loc>
     <lastmod>2026-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-universal-theme/blog/2026/02/04/apple_vascular_ageing/</loc>
+    <loc>https://devcows.github.io/hugo-universal-theme/tags/machine-learning/</loc>
     <lastmod>2026-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-universal-theme/blog/2026/02/04/skin_tone_pulse_ox_2026_02/</loc>
+    <loc>https://devcows.github.io/hugo-universal-theme/categories/pulse-oximetry/</loc>
     <lastmod>2026-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-universal-theme/about_us/</loc>
+    <loc>https://devcows.github.io/hugo-universal-theme/tags/pulse-oximetry/</loc>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-universal-theme/code/</loc>
+    <loc>https://devcows.github.io/hugo-universal-theme/tags/skin-tone/</loc>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-universal-theme/contact/</loc>
+    <loc>https://devcows.github.io/hugo-universal-theme/blog/2026/02/04/skin_tone_pulse_ox_2026_02/</loc>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-universal-theme/contribute/</loc>
+    <loc>https://devcows.github.io/hugo-universal-theme/tags/smartwatch/</loc>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-universal-theme/data/</loc>
+    <loc>https://devcows.github.io/hugo-universal-theme/about_us/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-universal-theme/faq/</loc>
+    <loc>https://devcows.github.io/hugo-universal-theme/code/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-universal-theme/learning/</loc>
+    <loc>https://devcows.github.io/hugo-universal-theme/contact/</loc>
+  </url><url>
+    <loc>https://devcows.github.io/hugo-universal-theme/contribute/</loc>
+  </url><url>
+    <loc>https://devcows.github.io/hugo-universal-theme/data/</loc>
+  </url><url>
+    <loc>https://devcows.github.io/hugo-universal-theme/faq/</loc>
+  </url><url>
+    <loc>https://devcows.github.io/hugo-universal-theme/learning/</loc>
   </url>
 </urlset>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Datasets on open-PPG</title>
-    <link>http://localhost:1313/hugo-universal-theme/categories/datasets/</link>
+    <link>https://devcows.github.io/hugo-universal-theme/categories/datasets/</link>
     <description>Recent content in Datasets on open-PPG</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-universal-theme/categories/datasets/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://devcows.github.io/hugo-universal-theme/categories/datasets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The MIMIC-III-Ext-PPG dataset</title>
-      <link>http://localhost:1313/hugo-universal-theme/blog/2026/02/12/mimic_iii_ext_ppg_dataset/</link>
+      <link>https://devcows.github.io/hugo-universal-theme/blog/2026/02/12/mimic_iii_ext_ppg_dataset/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-universal-theme/blog/2026/02/12/mimic_iii_ext_ppg_dataset/</guid>
+      <guid>https://devcows.github.io/hugo-universal-theme/blog/2026/02/12/mimic_iii_ext_ppg_dataset/</guid>
       <description>&lt;p&gt;A &lt;a href=&#34;https://physionet.org/content/mimic-iii-ext-ppg/1.0.0/&#34;&gt;new dataset&lt;/a&gt;, named MIMIC-III-Ext-PPG, has recently been released. It is a benchmark dataset designed for developing and testing PPG models and algorithms. The dataset contains 4.9 million 30-second segments of PPG signals, alongside heart rhythm labels and reference parameters such as heart rate, blood pressure, and respiratory rate. The data were extracted from the larger MIMIC-III dataset, which was collected from critically-ill patients in hospital. It also contains other simultaneous physiological signals, such as ECG and invasive blood pressure signals.&lt;/p&gt;</description>
     </item>
   </channel>
